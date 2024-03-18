@@ -1,5 +1,5 @@
 # FungalProject is an attempt to model fungal growth on a microscopic scale
-The project was made using Unity - the documentation can be found 
+The project was made using Unity - the documentation can be found [here](/ProjectDocs)
 
 ## Video showcase:
 https://www.youtube.com/watch?v=S_zSCVd18MA
